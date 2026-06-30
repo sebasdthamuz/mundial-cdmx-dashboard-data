@@ -1,0 +1,102 @@
+{
+  "geo_level": "alcaldia",
+  "metric": "monto_tpv",
+  "items": [
+    {
+      "zone_id": "coyoacan",
+      "zone_name": "Coyoacán",
+      "lat": 19.3467,
+      "lon": -99.1617,
+      "value_2025": 170000000,
+      "value_2026": 310000000,
+      "absolute_change": 140000000,
+      "growth_pct": 82.4,
+      "foreign_share_2026_pct": 34.2,
+      "intensity": 0.91
+    },
+    {
+      "zone_id": "cuauhtemoc",
+      "zone_name": "Cuauhtémoc",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "value_2025": 260000000,
+      "value_2026": 390000000,
+      "absolute_change": 130000000,
+      "growth_pct": 50.0,
+      "foreign_share_2026_pct": 38.6,
+      "intensity": 1.0
+    },
+    {
+      "zone_id": "benito_juarez",
+      "zone_name": "Benito Juárez",
+      "lat": 19.38,
+      "lon": -99.16,
+      "value_2025": 150000000,
+      "value_2026": 225000000,
+      "absolute_change": 75000000,
+      "growth_pct": 50.0,
+      "foreign_share_2026_pct": 25.1,
+      "intensity": 0.58
+    },
+    {
+      "zone_id": "miguel_hidalgo",
+      "zone_name": "Miguel Hidalgo",
+      "lat": 19.43,
+      "lon": -99.2,
+      "value_2025": 180000000,
+      "value_2026": 258000000,
+      "absolute_change": 78000000,
+      "growth_pct": 43.3,
+      "foreign_share_2026_pct": 36.4,
+      "intensity": 0.66
+    },
+    {
+      "zone_id": "venustiano_carranza",
+      "zone_name": "Venustiano Carranza",
+      "lat": 19.43,
+      "lon": -99.09,
+      "value_2025": 98000000,
+      "value_2026": 135000000,
+      "absolute_change": 37000000,
+      "growth_pct": 37.8,
+      "foreign_share_2026_pct": 22.7,
+      "intensity": 0.35
+    },
+    {
+      "zone_id": "tlalpan",
+      "zone_name": "Tlalpan",
+      "lat": 19.29,
+      "lon": -99.17,
+      "value_2025": 87000000,
+      "value_2026": 116000000,
+      "absolute_change": 29000000,
+      "growth_pct": 33.3,
+      "foreign_share_2026_pct": 17.5,
+      "intensity": 0.3
+    },
+    {
+      "zone_id": "alvaro_obregon",
+      "zone_name": "Álvaro Obregón",
+      "lat": 19.36,
+      "lon": -99.22,
+      "value_2025": 94000000,
+      "value_2026": 119000000,
+      "absolute_change": 25000000,
+      "growth_pct": 26.6,
+      "foreign_share_2026_pct": 18.9,
+      "intensity": 0.31
+    },
+    {
+      "zone_id": "iztapalapa",
+      "zone_name": "Iztapalapa",
+      "lat": 19.3574,
+      "lon": -99.0926,
+      "value_2025": 111000000,
+      "value_2026": 126000000,
+      "absolute_change": 15000000,
+      "growth_pct": 13.5,
+      "foreign_share_2026_pct": 9.8,
+      "intensity": 0.32
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "metric": "monto_tpv",
+  "dimension": "pais_tarjeta",
+  "items": [
+    {
+      "country": "Estados Unidos",
+      "region": "Norteamérica",
+      "value_2025": 95000000,
+      "value_2026": 210000000,
+      "absolute_change": 115000000,
+      "growth_pct": 121.1,
+      "share_2026_pct": 11.8,
+      "rank_2026": 1
+    },
+    {
+      "country": "Canadá",
+      "region": "Norteamérica",
+      "value_2025": 42000000,
+      "value_2026": 84000000,
+      "absolute_change": 42000000,
+      "growth_pct": 100.0,
+      "share_2026_pct": 4.7,
+      "rank_2026": 3
+    },
+    {
+      "country": "Brasil",
+      "region": "Sudamérica",
+      "value_2025": 39000000,
+      "value_2026": 76000000,
+      "absolute_change": 37000000,
+      "growth_pct": 94.9,
+      "share_2026_pct": 4.3,
+      "rank_2026": 4
+    },
+    {
+      "country": "Argentina",
+      "region": "Sudamérica",
+      "value_2025": 35000000,
+      "value_2026": 61000000,
+      "absolute_change": 26000000,
+      "growth_pct": 74.3,
+      "share_2026_pct": 3.4,
+      "rank_2026": 5
+    },
+    {
+      "country": "España",
+      "region": "Europa",
+      "value_2025": 30000000,
+      "value_2026": 50000000,
+      "absolute_change": 20000000,
+      "growth_pct": 66.7,
+      "share_2026_pct": 2.8,
+      "rank_2026": 6
+    },
+    {
+      "country": "Francia",
+      "region": "Europa",
+      "value_2025": 27000000,
+      "value_2026": 40500000,
+      "absolute_change": 13500000,
+      "growth_pct": 50.0,
+      "share_2026_pct": 2.3,
+      "rank_2026": 7
+    },
+    {
+      "country": "México",
+      "region": "Nacional",
+      "value_2025": 1040000000,
+      "value_2026": 1270000000,
+      "absolute_change": 230000000,
+      "growth_pct": 22.1,
+      "share_2026_pct": 71.3,
+      "rank_2026": 2
+    },
+    {
+      "country": "Colombia",
+      "region": "Sudamérica",
+      "value_2025": 15000000,
+      "value_2026": 17000000,
+      "absolute_change": 2000000,
+      "growth_pct": 13.3,
+      "share_2026_pct": 1.0,
+      "rank_2026": 8
+    },
+    {
+      "country": "Alemania",
+      "region": "Europa",
+      "value_2025": 23000000,
+      "value_2026": 21000000,
+      "absolute_change": -2000000,
+      "growth_pct": -8.7,
+      "share_2026_pct": 1.2,
+      "rank_2026": 9
+    },
+    {
+      "country": "Japón",
+      "region": "Asia",
+      "value_2025": 18000000,
+      "value_2026": 15000000,
+      "absolute_change": -3000000,
+      "growth_pct": -16.7,
+      "share_2026_pct": 0.8,
+      "rank_2026": 10
+    }
+  ]
+}

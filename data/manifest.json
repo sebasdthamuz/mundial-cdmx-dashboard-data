@@ -1,0 +1,19 @@
+{
+  "dashboard_id": "mundial_cdmx_impacto",
+  "version": "2026-07-16T08:00:00Z",
+  "period": {
+    "start_date_2025": "2025-04-01",
+    "end_date_2025": "2025-07-15",
+    "start_date_2026": "2026-04-01",
+    "end_date_2026": "2026-07-15"
+  },
+  "currency": "MXN",
+  "last_updated": "2026-07-16T08:00:00Z",
+  "files": {
+    "kpis": "kpis.json",
+    "trend": "trend_tpv_2025_2026.json",
+    "countries": "growth_by_country.json",
+    "giros": "growth_by_giro.json",
+    "map": "map_zones.json"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "tpv": {
+    "value_2025": 1250000000,
+    "value_2026": 1780000000,
+    "absolute_change": 530000000,
+    "growth_pct": 42.4
+  },
+  "foreign_tpv": {
+    "value_2025": 210000000,
+    "value_2026": 510000000,
+    "absolute_change": 300000000,
+    "growth_pct": 142.9,
+    "share_2026_pct": 28.7
+  },
+  "transactions": {
+    "value_2025": 3400000,
+    "value_2026": 4250000,
+    "absolute_change": 850000,
+    "growth_pct": 25.0,
+    "value_2025_intl": 432811,
+    "value_2026_intl": 882506,
+    "absolute_change_intl": 449695,
+    "growth_pct_intl": 103.9,
+    "value_2025_nac": 2967189,
+    "value_2026_nac": 3367494,
+    "absolute_change_nac": 400305,
+    "growth_pct_nac": 13.5
+  },
+  "avg_ticket": {
+    "value_2025": 367.6,
+    "value_2026": 418.8,
+    "absolute_change": 51.2,
+    "growth_pct": 13.9,
+    "value_2025_intl": 485.2,
+    "value_2026_intl": 577.9,
+    "absolute_change_intl": 92.7,
+    "growth_pct_intl": 19.1,
+    "value_2025_nac": 294.1,
+    "value_2026_nac": 343.4,
+    "absolute_change_nac": 49.3,
+    "growth_pct_nac": 16.8
+  },
+  "top_country": {
+    "name": "Estados Unidos",
+    "growth_pct": 121.1,
+    "value_2026": 210000000
+  },
+  "top_giro": {
+    "name": "Hoteles",
+    "growth_pct": 121.4,
+    "value_2026": 310000000
+  }
+}
