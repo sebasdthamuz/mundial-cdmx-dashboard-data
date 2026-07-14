@@ -1,6 +1,7 @@
 {
   "dashboard_id": "mundial_cdmx_impacto",
-  "version": "2026-07-16T08:00:00Z",
+  "version": "2026-07-14T16:53:12Z",
+  "last_updated": "2026-07-14T16:53:12Z",
   "period": {
     "start_date_2025": "2025-04-01",
     "end_date_2025": "2025-07-15",
@@ -8,7 +9,6 @@
     "end_date_2026": "2026-07-15"
   },
   "currency": "MXN",
-  "last_updated": "2026-07-16T08:00:00Z",
   "files": {
     "kpis": "kpis.json",
     "trend": "trend_tpv_2025_2026.json",
